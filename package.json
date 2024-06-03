@@ -1,0 +1,14 @@
+{
+    "name": "astnai",
+    "version": "1.0.0",
+    "description": "Muestra información personal de Astnai",
+    "main": "index.js",
+    "bin": {
+        "astnai": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Astnai",
+    "license": "ISC"
+}
