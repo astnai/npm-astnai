@@ -1,6 +1,6 @@
 {
     "name": "astnai",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Shows personal information of Agustín Arias",
     "main": "index.js",
     "bin": {
