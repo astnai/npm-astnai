@@ -1,6 +1,6 @@
 # Install the package
 ```bash
-$ npm install astnai
+$ npm install -g astnai
 ```
 
 # Run the package
@@ -8,4 +8,4 @@ $ npm install astnai
 $ astnai
 ```
 
-To have my personal information
+To have my personal information.
