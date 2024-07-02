@@ -7,5 +7,5 @@ console.log(`
   Web: https://agustinarias.com
   GitHub: https://github.com/astnai
   Twitter: https://twitter.com/astnai
-  Linkedin: https://inkedin.com/in/astnai
+  Linkedin: https://linkedin.com/in/astnai
 `);
