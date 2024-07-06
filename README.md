@@ -1,20 +1,21 @@
-# Install the package
+# astnai
+
+Package with my personal information
+
 ```bash
 $ npm install -g astnai
 ```
 
-## Run the package
+### Run
 ```bash
 $ astnai
 ```
-
-## Redirect
-```bash
-$ astnai 'page'
-$ astnai twitter
-```
-
-## Email me
+### Email me
 ```bash
 $ astnai email
+```
+
+### Redirect
+```bash
+$ astnai 'social-media'
 ```
