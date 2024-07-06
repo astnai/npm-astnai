@@ -3,9 +3,18 @@
 $ npm install -g astnai
 ```
 
-# Run the package
+## Run the package
 ```bash
 $ astnai
 ```
 
-To have my personal information.
+## Redirect
+```bash
+$ astnai 'page'
+$ astnai twitter
+```
+
+## Email me
+```bash
+$ astnai email
+```
